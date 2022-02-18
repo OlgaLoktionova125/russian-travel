@@ -1,0 +1,16 @@
+.page {
+    max-width: 1600px;
+    min-width: 320px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    background-color: #2A2C2F;
+    padding-top: 28px;
+    margin: auto;    
+}
+
+@media (max-width: 767px) {
+    .page {
+        padding-top: 16px;
+    }
+}
+

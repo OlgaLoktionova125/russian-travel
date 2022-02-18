@@ -1,0 +1,11 @@
+.places__link {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: normal;
+    color: #fff;
+    transition: font-weight 1s ease-in-out;
+}
+
+.places__link:hover {
+    font-weight: bold;
+}
