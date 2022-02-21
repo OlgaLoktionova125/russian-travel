@@ -1,9 +1,9 @@
-.photo-grid__items { 
-    width: 100%;   
+.photo-grid__items {
+    width: 100%;
     list-style-type: none;
     padding: 0;
     display: grid;
-    margin: 0;    
+    margin: 0;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 16px;
